@@ -1,4 +1,11 @@
-# Desafio-SQL-024-Educacao-na-XUniTech-PT-2
+# 🎓 Desafio-SQL-024-Educacao-na-XUniTech-PT-2
+
+![SQL](https://img.shields.io/badge/SQL-Analysis-blue)
+![Status](https://img.shields.io/badge/status-concluído-success)
+![Portfólio](https://img.shields.io/badge/portfolio-data%20analytics-orange)
+![Projeto](https://img.shields.io/badge/projeto-business%20insights-purple)
+
+---
 
 ## Descrição do Desafio
 
